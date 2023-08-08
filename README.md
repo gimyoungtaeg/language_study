@@ -11,6 +11,25 @@
 
 다른 값도 숫자가 나타내는 것에 맞춰서 대입
 
+- #include <stdio.h>
+
+- int main()
+{
+  int a;
+  int b;
+  int c = 0;
+  scanf("%d" "%d" , &a, &a);
+  printf("%d + %d = %d\n",a,b,c);
+    c = a - b;
+  printf("%d - %d =%d\n",a, b, c);
+    c = a * b;
+  printf("%d * %d =%d\n",a, b, c);
+    c = a / b;
+  printf("%d / %d =%d\n",a, b, c);
+ 
+    return 0;
+}
+
 
 # 2. 깃허브
 
